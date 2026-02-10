@@ -1,16 +1,35 @@
-## Hi there 👋
+# Giovanna Diolindo 
 
-<!--
-**gidiolindo/GiDiolindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo Giovanna Diolindo e sou apaixonada pelas soluções escondidas nos dados. 
 
-Here are some ideas to get you started:
+Tenho conhecimento em limpeza, análise e visualização de dados usando Python e Power BI. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Ferramentas e Tecnologias
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="filter: invert(32%) sepia(93%) saturate(746%) hue-rotate(180deg);" 
+    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" 
+/>
+
+<br/>
+<br/>
+
+- Python (Pandas, NumPy, Matplotlib, Statsmodels, Scikit Learn)
+- Power BI (Dashboards e KPIs)
+- Excel (VBA)
+
+
+</p>
