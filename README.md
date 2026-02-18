@@ -28,8 +28,8 @@ Tenho conhecimento em limpeza, análise e visualização de dados usando Python 
     align="left" 
     alt="Excel" 
     title="Excel"
-    width="30px" 
-    style="filter: invert(32%) sepia(93%) saturate(746%) hue-rotate(180deg);" 
+    width="40px" 
+    style="filter: invert(33%) sepia(90%) saturate(500%) hue-rotate(90deg);" 
     src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" 
 />
 
