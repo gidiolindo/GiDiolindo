@@ -37,8 +37,8 @@ Tenho conhecimento em limpeza, análise e visualização de dados usando Python 
 <br/>
 
 - Python (Pandas, NumPy, Matplotlib, Statsmodels, Scikit Learn)
-- Power BI (Dashboards e KPIs)
-- Excel (VBA)
+- Power BI (Dashboards, DAX, Power Query)
+- Excel (Fórmulas, VBA)
 
 
 </p>
