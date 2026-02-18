@@ -24,6 +24,15 @@ Tenho conhecimento em limpeza, análise e visualização de dados usando Python 
     src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="filter: invert(32%) sepia(93%) saturate(746%) hue-rotate(180deg);" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" 
+/>
+
 <br/>
 <br/>
 
