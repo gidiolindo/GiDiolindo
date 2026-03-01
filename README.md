@@ -2,7 +2,7 @@
 
 Olá! Me chamo Giovanna Diolindo. 
 
-Este é meu repositório com projetos para o aperfeiçoamento na área de dados, buscando desenvolver soluções baseadas em dados.
+Este é meu repositório com projetos que me desenvolveram para a área de dados.
 
 - Tenho conhecimento em limpeza, análise e visualização de dados usando Python. 
 - Criação de Dashboards no Power BI. 
