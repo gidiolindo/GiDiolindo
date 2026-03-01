@@ -1,8 +1,12 @@
 # Giovanna Diolindo 
 
-Olá! Me chamo Giovanna Diolindo e sou apaixonada pelas soluções escondidas nos dados. 
+Olá! Me chamo Giovanna Diolindo. 
 
-Tenho conhecimento em limpeza, análise e visualização de dados usando Python e Power BI. 
+Este é meu repositório com projetos para o aperfeiçoamento na área de dados, buscando desenvolver soluções baseadas em dados.
+
+Tenho conhecimento em limpeza, análise e visualização de dados usando Python. 
+Criação de Dashboards no Power BI. 
+Consultas e manipulação de dados em SQL.
 
 ---
 ### 🛠️ Ferramentas e Tecnologias
