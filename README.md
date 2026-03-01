@@ -4,9 +4,9 @@ Olá! Me chamo Giovanna Diolindo.
 
 Este é meu repositório com projetos para o aperfeiçoamento na área de dados, buscando desenvolver soluções baseadas em dados.
 
-Tenho conhecimento em limpeza, análise e visualização de dados usando Python. 
-Criação de Dashboards no Power BI. 
-Consultas e manipulação de dados em SQL.
+- Tenho conhecimento em limpeza, análise e visualização de dados usando Python. 
+- Criação de Dashboards no Power BI. 
+- Consultas e manipulação de dados em SQL.
 
 ---
 ### 🛠️ Ferramentas e Tecnologias
@@ -42,8 +42,8 @@ Consultas e manipulação de dados em SQL.
 
 - Python (Pandas, NumPy, Matplotlib, Statsmodels, Scikit Learn)
 - Power BI (Dashboards, DAX, Power Query)
+- SQL (Consultas e manipulações)
 - Excel (Fórmulas, VBA)
-- SQL (Consultas e análises)
 
 
 </p>
