@@ -33,12 +33,21 @@ Tenho conhecimento em limpeza, análise e visualização de dados usando Python 
     src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="40px" 
+    style="filter: invert(28%) sepia(90%) saturate(400%) hue-rotate(85deg);" 
+    src="https://icon-icons.com/icon/sql/30046/svg" 
+/>
 <br/>
 <br/>
 
 - Python (Pandas, NumPy, Matplotlib, Statsmodels, Scikit Learn)
 - Power BI (Dashboards, DAX, Power Query)
 - Excel (Fórmulas, VBA)
+- SQL (Consultas e análises)
 
 
 </p>
