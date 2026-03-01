@@ -1,10 +1,10 @@
 # Giovanna Diolindo 
 
-Olá! Me chamo Giovanna Diolindo. 
+Profissional em formação na área de Análise de dados.
 
-Este repositório reúne projetos práticos que desenvolvi com foco em Análise de Dados.
+Repositório com projetos práticos desenvolvidos.
 
-- Experiência em limpeza, transformação e análise exploratória de dados utilizando Python.
+- Experiência em limpeza, transformação e análise exploratória de dados utilizando Python (Pandas, NumPy).
 - Criação de Dashboards no Power BI. 
 - Consultas e manipulação de dados em SQL.
 
