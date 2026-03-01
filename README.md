@@ -39,7 +39,7 @@ Tenho conhecimento em limpeza, análise e visualização de dados usando Python 
     title="Excel"
     width="40px" 
     style="filter: invert(28%) sepia(90%) saturate(400%) hue-rotate(85deg);" 
-    src="https://icon-icons.com/icon/sql/30046/svg" 
+    src="https://www.flaticon.com/free-icon/sql_7506880" 
 />
 <br/>
 <br/>
